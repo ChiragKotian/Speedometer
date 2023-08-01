@@ -17,6 +17,8 @@ The whole system is built upon Arduino Nano encased by a custom 3D-printed enclo
 
 This system uses magnets and hall sensors to count the number of revolutions taken by cycle in unit time to calculate the moving average speed of the cycle.
 
+
+
 The speed thus calculated is displayed on the OLED screen attached to the enclosure.
 
 
@@ -25,6 +27,7 @@ when the magnet coincides with the hall sensor or moves the cycle such that the 
 and give ridiculous speed values. This system also helps in determining the reverse speed as by using the sequence of activation of sensors; we can calculate the direction of motion
 of movement of cycle.
 
+![image](https://github.com/ChiragKotian/Speedometer/assets/117931123/b2482d88-1064-4dc3-a97d-bd57356f87a3)
 
 
 The entire system is powered by two Li-ion batteries which are in series while using the speedometer and while charging it, charge parallelly using TP4056 Li-ion charging boards.
