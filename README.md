@@ -45,8 +45,27 @@ The system is also equipped with a voltage monitor so that the user charges the 
 
 ![20230505_091919](https://github.com/ChiragKotian/Speedometer/assets/117931123/1317cbd0-5081-4e50-80ca-e417e39acc15)
 
+## Demonstration:
+
+
+
+https://github.com/ChiragKotian/Speedometer/assets/117931123/5cfc90d4-da46-4923-8614-b739c6a52a25
+
+
+
+https://github.com/ChiragKotian/Speedometer/assets/117931123/3803ed2a-83c4-4494-982c-5eb7385b6f7f
+
+
 
 ## Some Videos and Photos:
+
+https://github.com/ChiragKotian/Speedometer/assets/117931123/adae2b78-4afb-4776-b8cd-b11a2e0c6df9
+
+
+
+https://github.com/ChiragKotian/Speedometer/assets/117931123/0a35f298-a930-4cde-bb3f-6fc82d64a0b3
+
+
 
 ## Credits:
 _This project was solely made by [me](https://chiragkotian.github.io) as a side project._
